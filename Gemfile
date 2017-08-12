@@ -37,6 +37,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :jruby]
 
 gem 'puma'
 
+
+gem 'simple_form', '~> 3.2'
+gem 'bootstrap-sass', '~> 3.3'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
